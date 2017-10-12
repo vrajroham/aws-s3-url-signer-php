@@ -1,0 +1,15 @@
+{
+    "name": "vrajroham/awss3urlsigner",
+    "description": "Create aws s3 url parameters to upload directly from browser",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vaibhavraj Roham",
+            "email": "vaibhavraj.developer@gmail.com"
+        }
+    ],
+    "require": {
+        "eddturtle/direct-upload": "^1.6"
+    }
+}
