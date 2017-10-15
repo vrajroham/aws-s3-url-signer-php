@@ -3,7 +3,7 @@
 
 	require_once __DIR__ . "/vendor/autoload.php";
 
-	$opt = array('acl' => 'public-read-write');
+	$opts = array('acl' => 'public-read-write');
 
 	$upload = new Signature(
 	    "YOUR_S3_KEY",
